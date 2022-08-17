@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Proy2",
+            "request": "launch",
+            "mainClass": "Proy2",
+            "projectName": "Proyecto 2_fa8e4f7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Proy2",
+            "request": "launch",
+            "mainClass": "Proy2",
+            "projectName": "Proyecto 3_fa8e4f7b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Perez147Proy2",
+            "request": "launch",
+            "mainClass": "Perez147Proy2",
+            "projectName": "Proyecto 3_fa8e4f7b"
+        }
+    ]
+}
